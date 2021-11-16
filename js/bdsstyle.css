@@ -1,0 +1,444 @@
+#bdshare ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare_s ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare ul li {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare_s ul li {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare_l_c ul li {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare_m_c ul li {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare_pop ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare_pop ul li {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#bdshare {
+	text-align: left !important; padding-bottom: 2px; font-size: 12px; float: left; z-index: 999999; zoom: 1; _overflow-x: hidden;
+}
+#bdshare a {
+	text-decoration: none; cursor: pointer;
+}
+#bdshare_s a {
+	text-decoration: none; cursor: pointer;
+}
+#bdshare_pop a {
+	text-decoration: none; cursor: pointer;
+}
+#bdshare a:hover {
+	color: rgb(51, 51, 51); filter: alpha(opacity=80); opacity: 0.8;
+}
+#bdshare_s a:hover {
+	color: rgb(51, 51, 51); filter: alpha(opacity=80); opacity: 0.8;
+}
+#bdshare_pop a:hover {
+	color: rgb(51, 51, 51); filter: alpha(opacity=80); opacity: 0.8;
+}
+#bdshare img {
+	margin: 0px; padding: 0px; border: 0px currentColor; cursor: pointer;
+}
+#bdshare h6 {
+	font: 700 14px/22px "宋体"; margin: 0px; padding: 5px 0px; width: 100%; text-indent: 0.5em; border-top-color: rgb(251, 251, 251); border-bottom-color: rgb(242, 241, 241); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; float: left; font-size-adjust: none; font-stretch: normal; background-color: rgb(246, 246, 246);
+}
+#bdshare_s h6 {
+	font: 700 14px/22px "宋体"; margin: 0px; padding: 5px 0px; width: 100%; text-indent: 0.5em; border-top-color: rgb(251, 251, 251); border-bottom-color: rgb(242, 241, 241); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; float: left; font-size-adjust: none; font-stretch: normal; background-color: rgb(246, 246, 246);
+}
+#bdshare ul {
+	padding: 8px 0px; width: 98%; overflow: hidden; margin-left: 2px; float: left;
+}
+#bdshare_s ul {
+	padding: 8px 0px; width: 98%; overflow: hidden; margin-left: 2px; float: left;
+}
+#bdshare ul li {
+	margin: 4px 2px; width: 47%; float: left; _width: 41%;
+}
+#bdshare_s ul li {
+	margin: 4px 2px; width: 47%; float: left; _width: 41%;
+}
+#bdshare ul li a {
+	font: 12px/normal "宋体"; padding: 6px 0px; border: 1px solid rgb(255, 255, 255); width: 98%; color: rgb(86, 86, 86); text-indent: 2.4em; display: block; font-size-adjust: none; font-stretch: normal; _text-indent: 1.8em;
+}
+#bdshare_s ul li a {
+	font: 12px/normal "宋体"; padding: 6px 0px; border: 1px solid rgb(255, 255, 255); width: 98%; color: rgb(86, 86, 86); text-indent: 2.4em; display: block; font-size-adjust: none; font-stretch: normal; _text-indent: 1.8em;
+}
+#bdshare ul li a:hover {
+	border: 1px solid rgb(238, 238, 238); background-color: rgb(243, 243, 243); -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+#bdshare_s ul li a:hover {
+	border: 1px solid rgb(238, 238, 238); background-color: rgb(243, 243, 243); -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+#bdshare p {
+	font: 12px/normal "宋体"; margin: 0px; padding: 0px; width: 100%; height: 21px; border-top-color: rgb(242, 241, 241); border-top-width: 1px; border-top-style: solid; float: left; font-size-adjust: none; font-stretch: normal; background-color: rgb(248, 248, 248);
+}
+#bdshare_s p {
+	font: 12px/normal "宋体"; margin: 0px; padding: 0px; width: 100%; height: 21px; border-top-color: rgb(242, 241, 241); border-top-width: 1px; border-top-style: solid; float: left; font-size-adjust: none; font-stretch: normal; background-color: rgb(248, 248, 248);
+}
+#bdshare p a {
+	padding: 0px 5px; width: auto; text-align: right; float: right;
+}
+#bdshare_s p a {
+	padding: 0px 5px; width: auto; text-align: right; float: right;
+}
+#bdshare_l {
+	background: rgb(255, 255, 255); top: 0px; width: 212px; text-align: left; position: absolute;
+}
+#bdshare_l_c {
+	border: 1px solid rgb(233, 233, 233); width: 210px; text-align: left; float: left;
+}
+#bdshare_l_c ul li {
+	margin: 2px; width: 47%; height: 26px; float: left;
+}
+#bdshare_l_c ul li a {
+	background: url("../images/is.png?cdnversion=20131219") no-repeat; height: auto !important;
+}
+#bdshare_m {
+	background: rgb(255, 255, 255); width: 132px; float: right; position: absolute; zoom: 1;
+}
+#bdshare_m_c {
+	background: rgb(255, 255, 255); border: 1px solid rgb(233, 233, 233); width: 130px; overflow: hidden; float: left;
+}
+#bdshare_m_c ul li {
+	margin: 2px; width: 97%; float: left; _width: 90%;
+}
+#bdshare_m_c ul li a {
+	background: url("../images/is.png?cdnversion=20131219") no-repeat; height: auto !important;
+}
+#bdshare_l {
+	z-index: 99999; -webkit-box-shadow: 0 0 7px #eee; -moz-box-shadow: 0 0 7px #eee;
+}
+#bdshare_m {
+	z-index: 99999; -webkit-box-shadow: 0 0 7px #eee; -moz-box-shadow: 0 0 7px #eee;
+}
+#bdshare_pop {
+	background: rgb(246, 246, 246); padding: 0px; border: 6px solid rgb(143, 143, 143); width: 300px; text-align: left; position: absolute; z-index: 1000000;
+}
+#bdshare_pop {
+	-webkit-border-radius: 5px; -moz-border-radius: 5px;
+}
+#bdshare_pop {
+	-webkit-box-shadow: 0 0 7px #aaa; -moz-box-shadow: 0 0 7px #aaa;
+}
+#bdshare_pop div {
+	border: 1px solid rgb(233, 233, 233); text-align: left; overflow: hidden; float: left;
+}
+#bdshare_pop h5 {
+	font: 700 14px/28px "宋体"; margin: 0px; width: 100%; height: 28px; color: rgb(98, 98, 98); text-indent: 0.5em; overflow: hidden; float: left; font-size-adjust: none; font-stretch: normal;
+}
+#bdshare_pop h5 b {
+	background: url("../images/pop_c.gif?cdnversion=20120720") no-repeat 0px 0px; top: 4px; width: 22px; height: 23px; right: 8px; position: absolute; cursor: pointer;
+}
+#bdshare_pop ul {
+	background: rgb(255, 255, 255); margin: 0px; padding: 8px 0px; width: 100%; height: 256px; overflow: auto; border-top-color: rgb(242, 241, 241); border-bottom-color: rgb(242, 241, 241); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; float: left; overflow-x: hidden;
+}
+#bdshare_pop ul li {
+	padding: 2px; width: 130px; height: 29px; overflow: hidden; margin-left: 6px; float: left; _margin-left: 3px;
+}
+#bdshare_pop ul li a {
+	background: url("../images/is.png?cdnversion=20131219") no-repeat; font: 12px/normal "宋体"; padding: 6px 0px 6px 28px; border: 1px solid rgb(255, 255, 255); width: 75%; color: rgb(86, 86, 86); display: block; font-size-adjust: none; font-stretch: normal;
+}
+#bdshare_pop ul li a:hover {
+	border: 1px solid rgb(238, 238, 238); background-color: rgb(243, 243, 243); -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+#bdshare_pop p {
+	font: 12px/normal "宋体"; margin: 0px; padding: 5px 0px 8px; width: 100%; overflow: hidden; float: left; font-size-adjust: none; font-stretch: normal;
+}
+#bdshare_pop p a {
+	padding: 0px 5px; width: auto; text-align: right; float: right;
+}
+#bdshare_l_c p a.goWebsite {
+	background: url("../images/pi.gif?cdnversion=20120720") no-repeat 0px; text-align: right; color: rgb(140, 140, 140); line-height: 16px; padding-left: 12px;
+}
+#bdshare_m_c p a.goWebsite {
+	background: url("../images/pi.gif?cdnversion=20120720") no-repeat 0px; text-align: right; color: rgb(140, 140, 140); line-height: 16px; padding-left: 12px;
+}
+#bdshare_pop p a.goWebsite {
+	background: url("../images/pi.gif?cdnversion=20120720") no-repeat 0px; text-align: right; color: rgb(140, 140, 140); line-height: 16px; padding-left: 12px;
+}
+#bdshare_l_c p a.goWebsite:hover {
+	color: rgb(0, 169, 224);
+}
+#bdshare_m_c p a.goWebsite:hover {
+	color: rgb(0, 169, 224);
+}
+#bdshare_pop p a.goWebsite:hover {
+	color: rgb(0, 169, 224);
+}
+span.bds_more {
+	background: url("../images/is.png?cdnversion=20131219") no-repeat 0px 5px !important;
+}
+span.bds_more {
+	height: 16px; padding-top: 6px; padding-bottom: 3px; padding-left: 22px; font-family: "宋体",Arial; float: left; display: block; cursor: pointer;
+}
+.bds_tools a {
+	height: 16px; padding-top: 6px; padding-bottom: 3px; padding-left: 22px; font-family: "宋体",Arial; float: left; display: block; cursor: pointer;
+}
+.bds_tools a {
+	background: url("../images/is.png?cdnversion=20131219") no-repeat;
+}
+.bds_tools_32 a {
+	background: url("../images/is_32.png?cdnversion=20131219") no-repeat; width: 37px; height: 37px; text-indent: -100em; margin-right: 3px; float: left; display: block; cursor: pointer;
+}
+.bds_tools_32 span.bds_more {
+	background: url("../images/is_32.png?cdnversion=20131219") no-repeat 0px 5px !important; width: 37px; height: 32px; text-indent: -100em; padding-left: 0px;
+}
+.bds_tools_24 a {
+	background: url("../images/is_24.png?cdnversion=20131219") no-repeat; width: 29px; height: 29px; padding-left: 0px; float: left; display: block; cursor: pointer;
+}
+.bds_tools_24 span.bds_more {
+	background: url("../images/is_24.png?cdnversion=20131219") no-repeat 0px 5px !important; width: 29px; height: 24px; text-indent: -100em; padding-left: 0px;
+}
+.bds_more {
+	background-position: 0px 4px !important; background-image: url("../images/is.png?cdnversion=20131219") !important;
+}
+span.bds_nopic {
+	padding-left: 3px !important; background-image: none !important;
+}
+.bds_tools_32 span.bds_nopic {
+	padding-left: 3px !important; background-image: none !important;
+}
+.bds_tools_24 span.bds_nopic {
+	padding-left: 3px !important; background-image: none !important;
+}
+.bdshare_b img {
+	float: left;
+}
+.bdshare_b a.shareCount {
+	background: url("../images/sc.png?cdnversion=20120720") no-repeat !important; margin: 0px; padding: 0px 0px 0px 5px; text-align: center; color: rgb(69, 69, 69); font-family: "宋体" !important; float: left;
+}
+.bds_tools a.shareCount {
+	background: url("../images/sc.png?cdnversion=20120720") no-repeat !important; margin: 0px; padding: 0px 0px 0px 5px; text-align: center; color: rgb(69, 69, 69); font-family: "宋体" !important; float: left;
+}
+.bds_tools_32 a.shareCount {
+	background: url("../images/sc.png?cdnversion=20120720") no-repeat !important; margin: 0px; padding: 0px 0px 0px 5px; text-align: center; color: rgb(69, 69, 69); font-family: "宋体" !important; float: left;
+}
+.bds_tools_24 a.shareCount {
+	background: url("../images/sc.png?cdnversion=20120720") no-repeat !important; margin: 0px; padding: 0px 0px 0px 5px; text-align: center; color: rgb(69, 69, 69); font-family: "宋体" !important; float: left;
+}
+.bdshare_b a.shareCount {
+	width: 39px; height: 24px; line-height: 24px; font-size: 12px; margin-left: 3px;
+}
+.bds_tools_24 a.shareCount {
+	width: 39px; height: 24px; line-height: 24px; font-size: 12px; margin-left: 3px;
+}
+.bdshare_b a.shareCount:hover {
+	background-position: -44px 0px !important; color: rgb(69, 69, 69) !important; filter: alpha(opacity=100) !important; opacity: 1 !important;
+}
+.bds_tools_24 a.shareCount:hover {
+	background-position: -44px 0px !important; color: rgb(69, 69, 69) !important; filter: alpha(opacity=100) !important; opacity: 1 !important;
+}
+.bds_tools a.shareCount {
+	background-position: 0px -30px !important; width: 37px; height: 16px; line-height: 16px; overflow: hidden; font-size: 12px; margin-top: 5px;
+}
+.bds_tools a.shareCount:hover {
+	background-position: -42px -30px !important; color: rgb(69, 69, 69) !important; filter: alpha(opacity=100) !important; opacity: 1 !important;
+}
+.bds_tools_32 a.shareCount {
+	background-position: 0px -60px !important; width: 43px; height: 32px; line-height: 32px; text-indent: 0px !important; overflow: hidden; font-size: 14px; margin-top: 5px;
+}
+.bds_tools_32 a.shareCount:hover {
+	background-position: -48px -60px !important; color: rgb(69, 69, 69) !important; filter: alpha(opacity=100) !important; opacity: 1 !important;
+}
+.bds_tools_24 a.shareCount {
+	margin-top: 5px;
+}
+.bds_qzone {
+	background-position: 0px -75px !important;
+}
+.bds_tsina {
+	background-position: 0px -115px !important;
+}
+.bds_bdhome {
+	background-position: 0px -155px !important;
+}
+.bds_renren {
+	background-position: 0px -195px !important;
+}
+.bds_tqq {
+	background-position: 0px -235px !important;
+}
+.bds_kaixin001 {
+	background-position: 0px -275px !important;
+}
+.bds_tqf {
+	background-position: 0px -315px !important;
+}
+.bds_hi {
+	background-position: 0px -355px !important;
+}
+.bds_douban {
+	background-position: 0px -395px !important;
+}
+.bds_tsohu {
+	background-position: 0px -435px !important;
+}
+.bds_msn {
+	background-position: 0px -475px !important;
+}
+.bds_qq {
+	background-position: 0px -515px !important;
+}
+.bds_taobao {
+	background-position: 0px -555px !important;
+}
+.bds_tieba {
+	background-position: 0px -595px !important;
+}
+.bds_sohu {
+	background-position: 0px -675px !important;
+}
+.bds_t163 {
+	background-position: 0px -715px !important;
+}
+.bds_qy {
+	background-position: 0px -755px !important;
+}
+.bds_tfh {
+	background-position: 0px -795px !important;
+}
+.bds_hx {
+	background-position: 0px -835px !important;
+}
+.bds_fx {
+	background-position: 0px -875px !important;
+}
+.bds_ff {
+	background-position: 0px -915px !important;
+}
+.bds_xg {
+	background-position: 0px -955px !important;
+}
+.bds_ty {
+	background-position: 0px -995px !important;
+}
+.bds_s51 {
+	background-position: 0px -1035px !important;
+}
+.bds_fbook {
+	background-position: 0px -1115px !important;
+}
+.bds_twi {
+	background-position: 0px -1155px !important;
+}
+.bds_ms {
+	background-position: 0px -1195px !important;
+}
+.bds_deli {
+	background-position: 0px -1235px !important;
+}
+.bds_s139 {
+	background-position: 0px -1275px !important;
+}
+.bds_iguba {
+	background-position: 0px -1315px !important;
+}
+.bds_linkedin {
+	background-position: 0px -1354px !important;
+}
+.bds_copy {
+	background-position: 0px -1393px !important;
+}
+.bds_ifeng {
+	background-position: 0px -1431px !important;
+}
+.bds_tuita {
+	background-position: 0px -1470px !important;
+}
+.bds_meilishuo {
+	background-position: 0px -1549px !important;
+}
+.bds_mogujie {
+	background-position: 0px -1589px !important;
+}
+.bds_diandian {
+	background-position: 0px -1629px !important;
+}
+.bds_huaban {
+	background-position: 0px -1669px !important;
+}
+.bds_leho {
+	background-position: 0px -1709px !important;
+}
+.bds_wealink {
+	background-position: 0px -1749px !important;
+}
+.bds_duitang {
+	background-position: 0px -1789px !important;
+}
+.bds_thx {
+	background-position: 0px -1829px !important;
+}
+.bds_mail {
+	background-position: 0px -1870px !important;
+}
+.bds_print {
+	background-position: 0px -1910px !important;
+}
+.bds_baidu {
+	background-position: 0px -1950px !important;
+}
+.bds_share189 {
+	background-position: 0px -1990px !important;
+}
+.bds_youdao {
+	background-position: 0px -2030px !important;
+}
+.bds_mshare {
+	background-position: 0px -2070px !important;
+}
+.bds_mop {
+	background-position: 0px -2110px !important;
+}
+.bds_yaoshi {
+	background-position: 0px -2150px !important;
+}
+.bds_bdxc {
+	background-position: 0px -2190px !important;
+}
+.bds_sqq {
+	background-position: 0px -2230px !important;
+}
+.bds_sdo {
+	background-position: 0px -2270px !important;
+}
+.bds_qingbiji {
+	background-position: 0px -2310px !important;
+}
+.bds_people {
+	background-position: 0px -2350px !important;
+}
+.bds_kanshou {
+	background-position: 0px -2390px !important;
+}
+.bds_xinhua {
+	background-position: 0px -2430px !important;
+}
+.bds_yaolan {
+	background-position: 0px -2470px !important;
+}
+.bds_isohu {
+	background-position: 0px -2510px !important;
+}
+.bds_bdysc {
+	background-position: 0px -2550px !important;
+}
+.bds_ibaidu {
+	background-position: 0px -2590px !important;
+}
+#bdshare .bds_fl5 {
+	display: none;
+}
+#bdshare .bds_buzz {
+	display: none;
+}
+#bdshare .bds_zx {
+	display: none;
+}
